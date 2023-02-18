@@ -1,0 +1,31 @@
+h1 {
+    font-size: 46px;
+    font-weight: 900;
+}
+
+.container {
+    padding: 20px;
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png");
+    height: 100vh;
+    background-size: cover;
+    color: #ffffff;
+    font-family: Open Sans;
+}
+
+.timeInSeconds {
+    margin-top: 20px;
+    background-color: transparent;
+    width: 80px;
+    border-radius: 20px;
+    border-width: 2px;
+    border-color: #f5f7fa;
+    border-style: solid;
+    padding: 10px;
+    text-align: center;
+}
+
+.button {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f5f7fa;
+}
